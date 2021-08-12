@@ -1,3 +1,4 @@
+![](demo.gif)
 # Spring and Hibernate based Shopping and Ordering System
  
 ● A web application based on Spring MVC to support item search and listing (dependency injection, inversion of control,
